@@ -1,7 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/EsK3F1p.gif" width="400"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxuZ2ZlZzZ6YTVuM2F4Ync4Z3J6Y2YyM2YwNDZwZ3JoNWZwMGNjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
 </p>
+
 
 <h1 align="center">✨ Hi, I'm <b>Divya Garud</b> ✨</h1>
 
