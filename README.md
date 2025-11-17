@@ -22,6 +22,44 @@
 🤝 Active Open Source Contributor  
 🎨 Love creating clean UI/UX & animated web experiences  
 
+
+
+
+
+
+<!-- 🚀 ABOUT ME (ANIMATED) -->
+## 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=900&color=FF42F7&center=true&vCenter=true&width=800&lines=💡+Passionate+about+building+impactful+%26+modern+web+apps;🌱+MERN+Stack+Explorer+—+MongoDB+•+Express+•+React+•+Node;🔥+Real-world+problem+solver+with+creative+thinking;🤝+Active+Open+Source+Contributor;🎨+Love+creating+clean+UI%2FUX+%2B+animated+web+experiences" />
+</p>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVibzJkYXNrbmZsNnZmb2J3dzJmYmxlamZtMG85eGM2MWtoMGR0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250"/>
+</p>
+
+---
+
+<!-- 🎨 MY VIBE (FIXED GIFS) -->
+## 🎨 **My Vibe**
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmZDZjbHZoYWJlYjNkaWwyMTFybzJkZzFzYzl4dmw0a2dtbWg3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="330"/>
+</p>
+
+ Alternative working GIFs if you want to switch -->
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z3bTNlN2p2a2JhN3FqN2dmcGdpeWl6MjVkbmEzeTRvOWVkM2NybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="330"/>
+</p>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBoNm44d2t4cTBnNHplNWI4bGx6ZWM0MmNkc25uMmN3YjBjMXJodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="330"/>
+</p>
+
+
+
+
+
 ---
 
 <!-- 🧰 TECH STACK -->
