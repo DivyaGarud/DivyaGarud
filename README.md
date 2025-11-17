@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2x1aTh4aTZicDNhcGMzNnFlYXVmcnJxOWFldmUxcnc0aTNjbDhvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hu9xj9UtxpoYJv5c3a/giphy.gif" width="600"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnkwYWpxbHdyb3gwM2h2Z3F0eTMxZzJod3JsdHBkODNxZndvdnBzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="600"/>
 </p>
 
 <h1 align="center">✨ Hi, I'm <b>Divya Garud</b> ✨</h1>
