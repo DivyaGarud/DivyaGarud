@@ -12,7 +12,10 @@
 ---
 
 <!-- 🚀 ABOUT ME -->
-## 🚀 About Me  
+## 
+<p align="left">
+  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNzM2Iyanltd2c4N2dobGsxNXkzYXp3dThyN2M2Z3cwMHRnemg2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NgurY1o4z080Jfoyzw/giphy.gif" width="220"/>
+</p>
 💡 Passionate about building impactful, scalable and modern web apps  
 🌱 MERN Stack Explorer — MongoDB • Express • React • Node  
 🔥 Strong interest in real-world problem solving  
@@ -28,6 +31,13 @@
 </p>
 
 ---
+
+
+## 🎨 **My Vibe**
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8b/78/5c/8b785c34ac1ec66f64fdf75f1a4bbf2a.gif" width="350">
+</p>
+
 
 <!-- 💼 EXPERIENCE -->
 ## 💼 Experience Highlights  
@@ -75,11 +85,16 @@
 
 ---
 
+
 <!-- 🏆 ACHIEVEMENTS -->
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=FF5FCD&center=true&vCenter=true&width=700&lines=🏆+Achievements+Unlocked!" />
+</p>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2kxdHpnNmxxNGZ0cWl5a2Vuemxxd3RiaDQ0MDNnbGpxYjV2M2puYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTfx2qLszoacZRS/giphy.gif" width="200"/>
 </p>
 
 ### 🥇 Highlights  
@@ -97,6 +112,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DivyaGarud&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaGarud&theme=tokyonight" height="180"/>
 </p>
+
 
 ---
 
@@ -134,116 +150,5 @@
 
 
 
-
-
-
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00E0FF&center=true&vCenter=true&width=700&lines=✨+Hi%2C+I'm+Divya+Garud!+✨;Web+Developer+%7C+MERN+Stack+Enthusiast+%7C+Coder;Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
-</p>
-
-<!-- Main GIF -->
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHE5cW40MjV2cnphcTh0bmZ2NzIydWw2YWcybHRjc25mMTYzY2k3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="550"/>
-</p>
-
----
-
-## 🚀 **About Me**
-<p align="left">
-  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNzM2Iyanltd2c4N2dobGsxNXkzYXp3dThyN2M2Z3cwMHRnemg2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NgurY1o4z080Jfoyzw/giphy.gif" width="220"/>
-</p>
-
-- 🌱 Passionate about **building modern and scalable web apps**  
-- 💻 MERN Stack Developer  
-- 🎯 Love solving real-world problems  
-- 🤝 Active **Open Source Contributor**  
-- ⚡ Always learning and improving!  
-
----
-
-## 🧰 **Tech Stack (Animated Icons)**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode,postman&theme=light" />
-</p>
-
----
-
-## 🎨 **My Vibe**
-<p align="center">
-  <img src="https://i.pinimg.com/originals/8b/78/5c/8b785c34ac1ec66f64fdf75f1a4bbf2a.gif" width="350">
-</p>
-
----
-
-## 🏗 **Featured Projects**
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hlb2diY3c4b2Y5OXIyYXIxZzhjNDJyMHlzdnoxdmtlYjlobWs2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="220">
-</p>
-
-### 🔸 **KumbhMela Service Portal**
-✨ Platform for  
-- Food distribution  
-- Waste management  
-- Lost & Found  
-
-🚀 Tech: **HTML • CSS • JavaScript • Node • MongoDB**
-
----
-
-### 🔸 **Zomato MERN Clone**
-🍽 Full Food Ordering Web App  
-- Restaurant browsing  
-- Menus  
-- Cart  
-- Authentication  
-
-🚀 Tech: **MongoDB • Express • React • Node**
-
----
-
-## 🏆 **Achievements (Animated)**
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=FF5FCD&center=true&vCenter=true&width=700&lines=🏆+Achievements+Unlocked!" />
-</p>
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2kxdHpnNmxxNGZ0cWl5a2Vuemxxd3RiaDQ0MDNnbGpxYjV2M2puYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTfx2qLszoacZRS/giphy.gif" width="200"/>
-</p>
-
-### 🥇 1st Prize – Poster Competition  
-### 🏅 Python Certification – Infosys  
-### 💡 Hackathon Participation – Winjit, Accenture, SIH  
-
----
-
-## 📊 **GitHub Stats (Animated Cards)**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyaGarud&show_icons=true&theme=tokyonight" height="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaGarud&theme=tokyonight" height="180">
-</p>
-
----
-
-## 🎯 **Profile Views**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DivyaGarud&color=ff69b4&style=for-the-badge">
-</p>
-
----
-
-## 💬 **Let’s Connect**
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=web"></a>
-  <a href="https://github.com/DivyaGarud"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
-</p>
-
----
-
-<!-- Footer GIF -->
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHE5cW40MjV2cnphcTh0bmZ2NzIydWw2YWcybHRjc25mMTYzY2k3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600"/>
-</p>
 
 
