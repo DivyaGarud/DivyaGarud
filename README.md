@@ -48,8 +48,9 @@
 ➡ Restaurant browsing, menus, order management, login system  
 
 <p align="center">
-  <img src="https://i.imgur.com/AEyFZ6X.gif" width="350"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHE5cW40MjV2cnphcTh0bmZ2NzIydWw2YWcybHRjc25mMTYzY2k3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600"/>
 </p>
+
 
 ---
 
