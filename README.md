@@ -58,6 +58,73 @@
 
 ---
 
+
+
+
+
+
+
+
+
+
+<!-- 💼 EXPERIENCE -->
+## <img src="https://i.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif" width="40"> **Experience Highlights**
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hlb2diY3c4b2Y5OXIyYXIxZzhjNDJyMHlzdnoxdmtlYjlobWs2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="250"/>
+</p>
+
+---
+
+### 🔹 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2F2ejV5N3d6ZHR0ajIxN3k4NXlxajF1bW1tN3gzcjh1NDhpMXUxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO7A7bt1wsEP4cw/giphy.gif" width="30"> **Full-Stack Web Development**
+
+✔ Developed **Kumbh Mela Service Portal**  
+(🛠 Admin Dashboard • 🗂 Multi-Service Modules • ⚙ API Workflows)
+
+<p align="left">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5pbzZuOGMzem5yeGpiMzIzYnF2ZjlwbXg5dGtlN25yOWVuZDFrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="180" />
+</p>
+
+✔ Built complete UI/UX  
+✔ Designed backend APIs  
+✔ Managed data pipelines & real-time flows  
+
+---  
+
+### 🔹 <img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> **MERN Stack Development**
+
+✔ Created a **Zomato-style Food App** with modern animations  
+
+**Features included:**  
+- 🍽 Restaurant Listings  
+- 📋 Menu Categories  
+- 🛒 Cart & Orders  
+- 🔐 Authentication & User Roles  
+- ⚡ Fully responsive, smooth UI  
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg5cXJ2ZnFwN21hem83c2lidmY1YXA3Z3R3dnFrczkyNXJpZjJkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlQ7LRalQqdVuuQ/giphy.gif" width="220">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=800&color=F953C6&center=true&vCenter=true&width=700&lines=✨+Clean+UI%2FUX+Design;✨+Modern+Animations;✨+Production+Ready+Full-Stack+Workflows" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- 🏗 FEATURED PROJECTS -->
 ## 🏗 Featured Projects  
 
