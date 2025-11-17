@@ -1,124 +1,115 @@
-<!-- ========== HEADER BANNER ========== -->
+<!-- 🌟 HEADER BANNER -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHE5cW40MjV2cnphcTh0bmZ2NzIydWw2YWcybHRjc25mMTYzY2k3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHE5cW40MjV2cnphcTh0bmZ2NzIydWw2YWcybHRjc25mMTYzY2k3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="650"/>
 </p>
 
+<!-- ✨ TITLE -->
 <h1 align="center">✨ Hi, I'm <b>Divya Garud</b> ✨</h1>
-
 <p align="center">
-  <b>Full-Stack Web Developer | MERN Stack Enthusiast | Open Source Contributor</b>
+  <b>Web Developer • MERN Stack Enthusiast • Open Source Contributor</b>
 </p>
 
 ---
 
-# 🌟 About Me  
-
-👩‍💻 Passionate about **building modern full-stack apps**  
-🚀 Skilled in **MERN Stack**  
-📌 Focused on **clean UI, strong backend & scalable systems**  
-🤝 Active in **open-source contributions**  
-🎯 Always exploring new technologies and improving problem-solving skills  
+<!-- 🚀 ABOUT ME -->
+## 🚀 About Me  
+💡 Passionate about building impactful, scalable and modern web apps  
+🌱 MERN Stack Explorer — MongoDB • Express • React • Node  
+🔥 Strong interest in real-world problem solving  
+🤝 Active Open Source Contributor  
+🎨 Love creating clean UI/UX & animated web experiences  
 
 ---
 
-# 🧰 Tech Stack  
-
+<!-- 🧰 TECH STACK -->
+## 🧰 Tech Stack & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode,postman,bootstrap,figma" />
 </p>
 
 ---
 
-# 💼 Experience Highlights  
+<!-- 💼 EXPERIENCE -->
+## 💼 Experience Highlights  
 
-### 🔹 **Full-Stack Web Development**
-✨ Built service portals using  
-✔ Node.js  
-✔ Express  
-✔ MongoDB  
-✔ JavaScript  
+### 🔹 Full-Stack Web Development  
+✔ Developed **Kumbh Mela Service Portal** (Admin Dashboard + Services)  
+✔ Responsible for UI, backend APIs, and data workflows  
 
-✨ Implemented  
-✔ Admin panels  
-✔ Authentication  
-✔ Dashboard analytics  
-
----
-
-### 🔹 **MERN Development**
-✨ Created dynamic food-ordering systems with  
-✔ Restaurant listing  
-✔ Menus  
-✔ Cart  
-✔ Orders  
-✔ Secure Login  
+### 🔹 MERN Stack Development  
+✔ Built **Zomato-style MERN Food App** with:  
+- 🍽 Restaurant Listings  
+- 📋 Menus & Categories  
+- 🛒 Cart & Orders  
+- 🔐 Authentication & Roles  
 
 ---
 
-# 🏗 Featured Projects  
+<!-- 🏗 FEATURED PROJECTS -->
+## 🏗 Featured Projects  
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdzdzZxbWdoZ3NjaWc1cWZjcG5mMWc4aGFuemltanFrdmppY3JicCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26u4lOMA8JKSnL9Uk/giphy.gif" width="180"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hlb2diY3c4b2Y5OXIyYXIxZzhjNDJyMHlzdnoxdmtlYjlobWs2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="200"/>
 </p>
 
 <div align="center">
 
-## 🔸 **KumbhMela Service Portal**
-🛠️ A high-scale event service management system  
-✨ Features  
-✔ Food Distribution Module  
-✔ Waste Management System  
-✔ Lost & Found Services  
-✔ Real-time Updates  
+### 🔸 **KumbhMela Service Portal**  
+📌 A unified service platform designed for mega-event management  
+🔹 Food Distribution  
+🔹 Waste Management  
+🔹 Lost & Found  
+⚙ Built using **Node.js + MongoDB + JavaScript**  
 
 ---
 
-## 🔸 **Zomato MERN Clone**
-🍽 A complete food-ordering & restaurant discovery system  
-✨ Features  
-✔ Restaurant Listings  
-✔ Menu Display  
-✔ Cart System  
-✔ Order Flow  
-✔ JWT-based Login  
+### 🔸 **Zomato MERN Clone**  
+🍔 A complete restaurant discovery + ordering system  
+🔹 Restaurant Listing UI  
+🔹 Menu Categories  
+🔹 Secure Login Signup  
+🔹 Cart + Order Flow  
+⚙ Tech: **MongoDB • Express • React • Node**
 
 </div>
 
 ---
 
-# 🏆 Achievements  
+<!-- 🏆 ACHIEVEMENTS -->
+## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBjZ3dtdjJ4bGdhb2V1bDRrN3lyYjZzc2tjNWFjbGF2aW5iMm1qeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tOZ42Mg6pbTUPHW/giphy.gif" width="160"/>
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200"/>
 </p>
 
-### 🥇 **1st Prize – Poster Competition**  
-### 🏅 **Python Programming Certification – Infosys**  
-### 💡 **Hackathon Participation:**  
-✔ Smart India Hackathon (SIH)  
-✔ Accenture Innovation Drive  
-✔ Winjit Tech Challenge  
+### 🥇 Highlights  
+- 🏅 **1st Prize – Poster Presentation Competition**  
+- 🔥 **Python Programming Certification – Infosys**  
+- 💡 Participated in **Hackathons**: SIH, Winjit, Accenture  
+- 🚀 Built multiple production-quality MERN projects  
 
 ---
 
-# 📊 GitHub Analytics  
+<!-- 📊 GITHUB STATS -->
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyaGarud&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DivyaGarud&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaGarud&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-# 👀 Profile Views  
-
+<!-- 👀 PROFILE VIEWS -->
+## 👀 Profile Views  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DivyaGarud&color=ff69b4&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=DivyaGarud&color=blueviolet&style=flat-square">
 </p>
 
 ---
 
-# 💬 Connect With Me  
+<!-- 🤝 CONNECT -->
+## 💬 Let's Connect!  
 
 <p align="center">
   <a href="#">
@@ -134,6 +125,7 @@
 
 ---
 
+<!-- FOOTER GIF -->
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTM5djlxajdlbGE3dmdlcHNiemtzNnZpNDJ5Z3p5czU1amJocjJzeSZlcD12MV9naWZzX3NlYXJjaCZjdT1n/13HgwGsXF0aiGY/giphy.gif" width="600"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnkwYWpxbHdyb3gwM2h2Z3F0eTMxZzJod3JsdHBkODNxZndvdnBzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="350"/>
 </p>
