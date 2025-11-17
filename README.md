@@ -41,19 +41,18 @@
 
 ## 🏗 Featured Projects  
 
+<p align="center">
+   
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hlb2diY3c4b2Y5OXIyYXIxZzhjNDJyMHlzdnoxdmtlYjlobWs2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="200"/>
+ 
+</p>
+<center>
 🔸 **KumbhMela Service Portal**  
 ➡ Service platform for food, waste, and lost & found management  
 
 🔸 **Zomato MERN Clone**  
 ➡ Restaurant browsing, menus, order management, login system  
-
-<p align="center">
-   
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hlb2diY3c4b2Y5OXIyYXIxZzhjNDJyMHlzdnoxdmtlYjlobWs2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="200"/>
- 
-
-</p>
-
+</center>
 
 
 
