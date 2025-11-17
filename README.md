@@ -27,33 +27,25 @@
 
 
 
-<!-- 🚀 ABOUT ME (ANIMATED) -->
-## 
+<!-- 🚀 ABOUT ME -->
+## 🚀 About Me  
+
+<!-- Animated typing text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=900&color=FF42F7&center=true&vCenter=true&width=800&lines=💡+Passionate+about+building+impactful+%26+modern+web+apps;🌱+MERN+Stack+Explorer+—+MongoDB+•+Express+•+React+•+Node;🔥+Real-world+problem+solver+with+creative+thinking;🤝+Active+Open+Source+Contributor;🎨+Love+creating+clean+UI%2FUX+%2B+animated+web+experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF6AF5&center=true&vCenter=true&width=700&lines=💡+Passionate+About+Building+Impactful+Web+Apps;🌱+MERN+Stack+Developer+%7C+MongoDB+•+Express+•+React+•+Node;🔥+Love+Real+World+Problem+Solving+%26+Innovation;🤝+Active+Open+Source+Contributor;🎨+UI%2FUX+Lover+%2B+Animated+Web+Experiences" />
 </p>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmVibzJkYXNrbmZsNnZmb2J3dzJmYmxlamZtMG85eGM2MWtoMGR0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVpaWY5bmd3eHh4N29wNDU5ZW40cjhhbXUzN2VzdXFpbXBoeTRmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="320"/>
 </p>
 
 ---
 
-<!-- 🎨 MY VIBE (FIXED GIFS) -->
-## 🎨 **My Vibe**
+<!-- 🎨 MY VIBE -->
+## 🎨 My Vibe  
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmZDZjbHZoYWJlYjNkaWwyMTFybzJkZzFzYzl4dmw0a2dtbWg3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="330"/>
-</p>
-
- Alternative working GIFs if you want to switch -->
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z3bTNlN2p2a2JhN3FqN2dmcGdpeWl6MjVkbmEzeTRvOWVkM2NybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="330"/>
-</p>
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBoNm44d2t4cTBnNHplNWI4bGx6ZWM0MmNkc25uMmN3YjBjMXJodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="330"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3M5eGwzM3l4eTJ0c244YXoyN292cTJ2dXpzN3AxZ3ZsdTRieGRpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRQBXSCnEFJIuxktnw/giphy.gif" width="350" style="border-radius: 20px;"/>
 </p>
 
 
