@@ -29,11 +29,11 @@
 
 ## 💼 Experience Highlights  
 
-### 🔹 **Full-Stack Web Development – NetLeap IT, Nashik**  
+### 🔹 **Full-Stack Web Development**  
 ✔ Built Kumbh Mela Service Portal using **Node.js + MongoDB + JS**  
 ✔ Designed UI & implemented admin modules  
 
-### 🔹 **MERN Development – Edunet Foundation (EY GDS & AICTE)**  
+### 🔹 **MERN Development**  
 ✔ Developed **Zomato-style food ordering system**  
 ✔ Added authentication, menus, restaurants, order tracking  
 
