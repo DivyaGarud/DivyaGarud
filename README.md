@@ -35,38 +35,6 @@
 
 ---
 
-
-## 🎨 **My Vibe**
-<p align="center">
-  <img src="https://i.pinimg.com/originals/8b/78/5c/8b785c34ac1ec66f64fdf75f1a4bbf2a.gif" width="350">
-</p>
-
-
-<!-- 💼 EXPERIENCE -->
-## 💼 Experience Highlights  
-
-### 🔹 Full-Stack Web Development  
-✔ Developed **Kumbh Mela Service Portal** (Admin Dashboard + Services)  
-✔ Responsible for UI, backend APIs, and data workflows  
-
-### 🔹 MERN Stack Development  
-✔ Built **Zomato-style MERN Food App** with:  
-- 🍽 Restaurant Listings  
-- 📋 Menus & Categories  
-- 🛒 Cart & Orders  
-- 🔐 Authentication & Roles  
-
----
-
-
-
-
-
-
-
-
-
-
 <!-- 💼 EXPERIENCE -->
 ## <img src="https://i.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif" width="40"> **Experience Highlights**
 
@@ -107,20 +75,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=800&color=F953C6&center=true&vCenter=true&width=700&lines=✨+Clean+UI%2FUX+Design;✨+Modern+Animations;✨+Production+Ready+Full-Stack+Workflows" />
-</p>
-
-
-
-
-
-
-
-
-
-
 
 
 
