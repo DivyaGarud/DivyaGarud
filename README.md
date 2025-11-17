@@ -129,3 +129,105 @@
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnkwYWpxbHdyb3gwM2h2Z3F0eTMxZzJod3JsdHBkODNxZndvdnBzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="350"/>
 </p>
+
+
+
+
+
+<!-- ✨ ANIMATED HEADER BANNER -->
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHE5cW40MjV2cnphcTh0bmZ2NzIydWw2YWcybHRjc25mMTYzY2k3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="900"/>
+</p>
+
+<!-- ✨ ANIMATED NAME -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=✨+Hi%2C+I'm+Divya+Garud+✨;Full+Stack+Web+Developer+🌐;MERN+Stack+Developer+⚡;Open+Source+Contributor+💡;Tech+Explorer+🚀" />
+</h1>
+
+---
+
+## 🚀 About Me  
+✨ MERN Stack Developer passionate about building modern, scalable web apps  
+💡 Exploring advanced backend + frontend engineering  
+🔥 Always learning new technologies  
+🤝 Contributing to open-source whenever possible  
+
+---
+
+## 🧰 Animated Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,github,git,vscode,postman" width="750"/>
+</p>
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" width="200"/>
+</p>
+
+<div align="center">
+
+### 🥇 **1st Prize – Poster Competition**  
+### 🏅 **Python Certification – Infosys**  
+### 💻 **Hackathon Participation:**  
+⚡ Smart India Hackathon  
+⚡ Winjit Hackathon  
+⚡ Accenture Innovation Challenge  
+
+</div>
+
+---
+
+## 🏗 Featured Projects  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/j5hYiAGNTC1oY/giphy.gif" width="200"/>
+</p>
+
+<div align="center">
+
+### 🍱 **Zomato MERN Clone**  
+🚀 Restaurant listing + menus + cart + authentication  
+🛠 Built using **MongoDB, Express, React, Node**
+
+---
+
+### 🛕 **KumbhMela Service Portal**  
+⚡ Multi-service portal for mega event management  
+📌 Food | Waste | Lost & Found | Service Dashboards  
+🔧 Tech: JS + Node.js + MongoDB
+
+</div>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DivyaGarud&show_icons=true&theme=radical&hide_border=true" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaGarud&theme=radical&hide_border=true" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyaGarud&theme=react-dark&hide_border=true&area=true" width="95%">
+</p>
+
+---
+
+## 🌐 Socials  
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=web"></a>
+  <a href="https://github.com/DivyaGarud"><img src="https://img.shields.io/badge/GitHub-Follow-000?style=for-the-badge&logo=github"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.giphy.com/media/l3vR1XqQJegwLEWkg/giphy.gif" width="600"/>
+</p>
+
