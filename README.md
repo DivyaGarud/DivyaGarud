@@ -47,10 +47,35 @@
 🔸 **Zomato MERN Clone**  
 ➡ Restaurant browsing, menus, order management, login system  
 
-[<p align="center">
+<p align="center">
+
+   OPTION A – Futuristic Coding GIF ========= -->
+  
+  <img src="https://i.ibb.co/9t5pZ8m/futuristic-coding-banner.gif" width="600"/>
+  
+
+   – Clean Professional Coding Loop GIF ========= -->
+  
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmh3bjlua2V1ZHY3Y3g2OXI2cG91bnRtb2hoMmUyYWkxMm55bnB3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HUpt2s9Pclgt9Vm/giphy.gif" width="600"/>
+ 
+
+   – Tech Grid Premium Banner (Static) ========= -->
+   
   <img src="https://i.ibb.co/YdKMq4K/tech-banner-1.png" width="600"/>
-</p>]
-)
+  
+
+   OPTION D – Clean Minimal Developer Banner (Static) ========= -->
+   
+  <img src="https://i.ibb.co/5v3D0hP/dev-banner-clean.png" width="600"/>
+  -->
+
+   OPTION E – Futuristic Blue Coding Animation ========= -->
+  
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hlb2diY3c4b2Y5OXIyYXIxZzhjNDJyMHlzdnoxdmtlYjlobWs2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600"/>
+  -->
+
+</p>
+
 
 
 
