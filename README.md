@@ -98,7 +98,7 @@ I'm always open to discussing new projects, opportunities, or collaborating on o
 
 📧 **Email:** divyagarud12@gmail.com
 💼 **LinkedIn:** [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/divya-garud/)
-🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
+🌐 **Portfolio:** [your-portfolio-link.com](https://portfolio.com)
 
 <div align="center">
 
