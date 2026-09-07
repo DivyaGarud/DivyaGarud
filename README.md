@@ -1,185 +1,17 @@
-<!-- 🌟 HEADER BANNER -->
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHE5cW40MjV2cnphcTh0bmZ2NzIydWw2YWcybHRjc25mMTYzY2k3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
-</p>
 
-<!-- ✨ TITLE -->
+
+
+<div align="center">
+
 <h1 align="center">✨ Hi, I'm <b>Divya Garud</b> ✨</h1>
 <p align="center">
   <b>Web Developer • MERN Stack Enthusiast • Open Source Contributor</b>
-</p>
-
----
-
-<!-- 🚀 ABOUT ME -->
-## 
-
-<p align="left">
-  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNzM2Iyanltd2c4N2dobGsxNXkzYXp3dThyN2M2Z3cwMHRnemg2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NgurY1o4z080Jfoyzw/giphy.gif" width="220"/>
-</p>
-
-✨ **I'm passionate about building impactful, scalable and modern web apps**  
-🌱 **MERN Stack Explorer — MongoDB • Express • React • Node**  
-🔥 **Strong interest in solving real-world problems**  
-🤝 **Active Open Source Contributor**  
-🎨 **Love creating clean UI/UX & animated web experiences**  
 
 
----
-
-<!-- 🧰 TECH STACK -->
-## 🧰 Tech Stack & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode,postman,bootstrap,figma" />
-</p>
-
----
-
-<!-- 💼 EXPERIENCE -->
-## <img src="https://i.giphy.com/media/26FmQ6EOvLxp6cWyY/giphy.gif" width="40"> **Experience Highlights**
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hlb2diY3c4b2Y5OXIyYXIxZzhjNDJyMHlzdnoxdmtlYjlobWs2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="250"/>
-</p>
-
----
-
-### 🔹 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2F2ejV5N3d6ZHR0ajIxN3k4NXlxajF1bW1tN3gzcjh1NDhpMXUxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriO7A7bt1wsEP4cw/giphy.gif" width="30"> **Full-Stack Web Development**
-
-✔ Developed **Kumbh Mela Service Portal**  
-(🛠 Admin Dashboard • 🗂 Multi-Service Modules • ⚙ API Workflows)
-
-<p align="left">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5pbzZuOGMzem5yeGpiMzIzYnF2ZjlwbXg5dGtlN25yOWVuZDFrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="180" />
-</p>
-
-✔ Built complete UI/UX  
-✔ Designed backend APIs  
-✔ Managed data pipelines & real-time flows  
-
----  
-
-### 🔹 <img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"> **MERN Stack Development**
-
-✔ Created a **Zomato-style Food App** with modern animations  
-
-**Features included:**  
-- 🍽 Restaurant Listings  
-- 📋 Menu Categories  
-- 🛒 Cart & Orders  
-- 🔐 Authentication & User Roles  
-- ⚡ Fully responsive, smooth UI  
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg5cXJ2ZnFwN21hem83c2lidmY1YXA3Z3R3dnFrczkyNXJpZjJkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlQ7LRalQqdVuuQ/giphy.gif" width="220">
-</p>
-
----
-
-
-
-
-<!-- 🏗 FEATURED PROJECTS -->
-## 🏗 Featured Projects  
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hlb2diY3c4b2Y5OXIyYXIxZzhjNDJyMHlzdnoxdmtlYjlobWs2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="200"/>
-</p>
-
-<div align="center">
-
-### 🔸 **KumbhMela Service Portal**  
-📌 A unified service platform designed for mega-event management  
-🔹 Food Distribution  
-🔹 Waste Management  
-🔹 Lost & Found  
-⚙ Built using **Node.js + MongoDB + JavaScript**  
-
----
-
-### 🔸 **Zomato MERN Clone**  
-🍔 A complete restaurant discovery + ordering system  
-🔹 Restaurant Listing UI  
-🔹 Menu Categories  
-🔹 Secure Login Signup  
-🔹 Cart + Order Flow  
-⚙ Tech: **MongoDB • Express • React • Node**
-
-</div>
-
----
-
-
-<!-- 🏆 ACHIEVEMENTS -->
-## 🏆 Achievements  
-
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2kxdHpnNmxxNGZ0cWl5a2Vuemxxd3RiaDQ0MDNnbGpxYjV2M2puYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4pTfx2qLszoacZRS/giphy.gif" width="200"/>
-</p>
-
-### 🥇 Highlights  
-- 🏅 **1st Prize – Poster Presentation Competition**  
-- 🔥 **Python Programming Certification – Infosys**  
-- 💡 Participated in **Hackathons**: SIH, Winjit, Accenture  
-- 🚀 Built multiple production-quality MERN projects  
-
----
-
-<!-- 📊 GITHUB STATS -->
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyaGarud&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaGarud&theme=tokyonight" height="180"/>
-</p>
-
-
----
-
-<!-- 👀 PROFILE VIEWS -->
-## 👀 Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DivyaGarud&color=blueviolet&style=flat-square">
-</p>
-
----
-
-<!-- 🤝 CONNECT -->
-## 💬 Let's Connect!  
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=web"/>
-  </a>
-  <a href="https://github.com/DivyaGarud">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-<!-- FOOTER GIF -->
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnkwYWpxbHdyb3gwM2h2Z3F0eTMxZzJod3JsdHBkODNxZndvdnBzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="350"/>
-</p>
-
-
-
-
-
-<div align="center">
-
-# Hi, I'm Divya Garud 👋
-### MERN Stack Developer building scalable, real-world web applications
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://www.linkedin.com/in/divya-garud/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyagarud12@gmail.com)
+</p>
 </div>
 
 ---
@@ -196,7 +28,7 @@ I'm a Web Developer focused on the **MERN stack**, with hands-on experience buil
 
 ---
 
-## Tech Stack
+##  🧰 Tech Stack & Tools  
 
 **Languages & Core**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -218,6 +50,12 @@ I'm a Web Developer focused on the **MERN stack**, with hands-on experience buil
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode,postman,bootstrap,figma" />
+</p>
 
 ---
 
