@@ -7,8 +7,7 @@
 <p align="center">
   <b>Web Developer • MERN Stack Enthusiast • Open Source Contributor</b>
 
-
-[![LinkedIn](https://www.linkedin.com/in/divya-garud/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-garud/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyagarud12@gmail.com)
 </p>
@@ -71,7 +70,7 @@ A unified service management platform built for coordinating operations at large
 
 ---
 
-### 🍽️ Restaurant Discovery & Ordering App
+### 🍽️ Zomato Clone
 A full-stack food ordering platform with restaurant listings, cart management, and secure authentication.
 - Implemented restaurant listing and menu categorization UI
 - Built authentication and role-based access (customer/admin)
@@ -98,7 +97,7 @@ A full-stack food ordering platform with restaurant listings, cart management, a
 I'm always open to discussing new projects, opportunities, or collaborating on open source.
 
 📧 **Email:** your.email@gmail.com
-💼 **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/YOUR-LINKEDIN)
+💼 **LinkedIn:** [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/divya-garud/)
 🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
 
 <div align="center">
