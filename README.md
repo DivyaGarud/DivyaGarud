@@ -96,7 +96,7 @@ A full-stack food ordering platform with restaurant listings, cart management, a
 
 I'm always open to discussing new projects, opportunities, or collaborating on open source.
 
-📧 **Email:** your.email@gmail.com
+📧 **Email:** divyagarud12@gmail.com
 💼 **LinkedIn:** [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/divya-garud/)
 🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
 
